@@ -19,7 +19,8 @@ Developed a comprehensive model to estimate software development effort using va
 ## Graphs and Results
 
 ### Model Performance Comparison
-![Model Performance Comparison](images/MAE/China.png)
+![Model Performance Comparison]
+![China](images/MAE/China.png)
 
 ### Error Metrics
 ![Error Metrics](images/graph2.png)
