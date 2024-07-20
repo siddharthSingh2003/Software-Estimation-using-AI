@@ -19,7 +19,7 @@ Developed a comprehensive model to estimate software development effort using va
 ## Graphs and Results
 
 ### Model Performance Comparison
-![Model Performance Comparison](images/MAE/Albrecht(1).png)
+![Model Performance Comparison](images/MAE/Albrecht-(1).png)
 
 ### Error Metrics
 ![Error Metrics](images/graph2.png)
