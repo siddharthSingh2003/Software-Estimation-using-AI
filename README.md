@@ -16,23 +16,28 @@ Developed a comprehensive model to estimate software development effort using va
 - Improved estimation accuracy, reducing MAE by 40%, RMSE by 30%, R-squared by 65%, and MMRE by 40% compared to traditional methods.
 - Enhanced the accuracy and reliability of software project estimations, leading to better project planning and resource allocation.
 
+## Report
+![Report](Software-Estimation-Refort.pdf)
 ## Graphs and Results
 
 ### Model Performance Comparison
 ## MAE
-![Albrecht](images/MAE/Albrecht.png)
-![China](images/MAE/China.png)
-![Cocomo](images/MAE/Cocomo.png)
-![Desharnais](images/MAE/Desharnais.png)
-![Kemerer](images/MAE/Kemerer.png)
-![Maxwell](images/MAE/Maxwell.png)
+![MAE](images/MAE.png)
+## RMSE
+![China](images/RMSE.png)
+## MMRE
+![Cocomo](images/MMRE.png)
+## R2 Score
+![Desharnais](images/R2score.png)
 
 
-### Error Metrics
-![Error Metrics](images/graph2.png)
 
+## Contributers
+
+-Siddharth Singh `https://github.com/siddharthSingh2003`
+-Vanshika Srivastava
 ## How to Run
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/siddharthSingh2003/Software-Estimation-using-AI.git
