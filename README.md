@@ -16,20 +16,31 @@ Developed a comprehensive model to estimate software development effort using va
 - Improved estimation accuracy, reducing MAE by 40%, RMSE by 30%, R-squared by 65%, and MMRE by 40% compared to traditional methods.
 - Enhanced the accuracy and reliability of software project estimations, leading to better project planning and resource allocation.
 
-## Report
-![Report](Software-Estimation-Refort.pdf)
+
 ## Graphs and Results
 
 ### Model Performance Comparison
 ## MAE
 ![MAE](images/MAE.png)
 ## RMSE
-![China](images/RMSE.png)
+![RMSE](images/RMSE.png)
 ## MMRE
-![Cocomo](images/MMRE.png)
+![MMRE](images/MMRE.png)
 ## R2 Score
-![Desharnais](images/R2score.png)
+![R2 Score](images/R2score.png)
 
+## ALBRECHT
+![ALBRECHT](images/ALBRECHT.png)
+## CHINA
+![CHINA](images/CHINA.png)
+## Desharnais.png
+![Desharnais](images/Desharnais.png)
+## MAXWELL.png
+![Desharnais](images/MAXWELL.png)
+## KEMERER.png
+![Desharnais](images/KEMERER.png)
+## COCOMO81.png
+![Desharnais](images/COCOMO81.png)
 
 
 ## Contributers
